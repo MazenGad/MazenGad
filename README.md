@@ -32,23 +32,6 @@
 
 ---
 
-### 🏢 Work Experience
-
-- **Code Craft (Dubai)** – *Part-Time .NET Developer* (Nov 2024 – Present)  
-  ↳ Developed location-based services app with **CQRS**, **RBAC**, and clean API.
-
-- **UIS / Direct Solution** – *.NET Developer* (Apr 2023 – Sept 2023)  
-  ↳ Multi-tenant platform with **payment gateways** (Tab, Bookey, PayPal), **Swagger docs**, and **tenant subscriptions**.
-
----
-
-### 🎓 Education & Awards
-
-- 🎓 Bachelor of CS & Artificial Intelligence – GPA: 3.3 (2019–2023)  
-- 🥇 8th Place – Computer Science Dept., Faculty of Computers and AI  
-- 💡 ICPC participant in competitive programming competitions
-
----
 
 ### 📫 Let's Connect
 
